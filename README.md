@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Aditi 👋
 
-<!--
-**aditisep/aditisep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Test Automation Engineer / SDET based in Berlin, Germany, with 10+ years of experience across manual, API, integration, and automation testing.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Automation Frameworks**
+Playwright · Cypress · Selenium
+
+**Languages**
+TypeScript · Python · Java
+
+**API Testing**
+Postman · RestAssured
+
+**CI/CD**
+GitHub Actions · GitLab · Jenkins
+
+**Infrastructure**
+Docker · Kubernetes
+
+**AI-Assisted Testing**
+Claude Code · Cursor
+
+## 🎓 Background
+
+- ISTQB Certified
+- MBA, IU International University of Applied Sciences
+- B.E. in Computer Science
+
+## 📌 Currently
+
+- QA Automation Consultant at CyberRanges
+- Open to full-time QA / Test Automation roles in Germany
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/aditi--patil/
+- Email: aditi.patil91529@gmail.com
+
+---
+⭐️ Check out my pinned repositories below for examples of automation frameworks, API test suites, and CI/CD pipeline setups.
