@@ -31,7 +31,7 @@ Claude Code · Cursor
 ## 📌 Currently
 
 - QA Automation Consultant at CyberRanges
-- Open to full-time QA / Test Automation roles in Germany
+- Open to full-time QA / Test Automation or Consultant roles in Germany
 
 ## 📫 Connect
 
