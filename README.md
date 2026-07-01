@@ -36,7 +36,6 @@ Claude Code · Cursor
 ## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/aditi--patil/
-- Email: aditi.patil91529@gmail.com
 
 ---
 ⭐️ Check out my pinned repositories below for examples of automation frameworks, API test suites, and CI/CD pipeline setups.
